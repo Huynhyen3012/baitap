@@ -8,5 +8,6 @@ namespace baitap.Models
 {
     internal class User
     {
+        public int UserName { get; set; }
     }
 }
